@@ -177,7 +177,7 @@ export default () => {
             .then((canvas) => {
                 const imgData = canvas.toDataURL('image/png');
                 const doc = new jsPDF();    // left margin // top margin // x-axis // y-axis //
-                doc.addImage(imgData, 'JPEG', 0, 2, 240, 145);
+                doc.addImage(imgData, 'JPEG', 0, 20, 240, 145);
                 doc.text(15,165,"Notes:")
                 doc.save("download.pdf");
             });
@@ -329,18 +329,18 @@ export default () => {
                     <Fade right><h4 className='SecTitle'>Alignment Project</h4></Fade>
                 </div>
 {/* ****************************************************** Randomizer Button *********************************************** */}
-                <div className="input-group mt-3">
+                <div className="input-group mt-3" data-html2canvas-ignore="true">
                     <input type="text" className='col-sm-5 offset-3 form-control topic' name="topic" placeholder= "Enter Topic" onChange={subjectHandler}/>
                     <div className="input-group-append">
                         <button className="btn btn-primary topic" onClick={Randomize}> Randomize </button>
                     </div>
                 </div>
-                <div className="col-sm-2 offset-9 mt-1">
+                <div className="col-sm-2 offset-9 mt-1" data-html2canvas-ignore="true">
                     <label className="switch">
                         <input type="checkbox" onClick={addImperatives}/><span className="slider round"></span>
                     </label>
                 </div>
-                <label className='col-sm-6 offset-9 contentlabel'>Use Content Imperatives</label>
+                <label className='col-sm-6 offset-9 contentlabel' data-html2canvas-ignore="true">Use Content Imperatives</label>
             <FadeIn delay='300' transitionDuration='900'>
             <div className='L1'>
 {/* ********************************************************** Stratigic **************************************************** */}
