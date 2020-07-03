@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ccae6b8.chunk.css",
+    "main.js": "/static/js/main.ad2ca0fd.chunk.js",
+    "main.js.map": "/static/js/main.ad2ca0fd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.7e1d6626.chunk.js": "/static/js/2.7e1d6626.chunk.js",
+    "static/js/2.7e1d6626.chunk.js.map": "/static/js/2.7e1d6626.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a5dc6db8b5729dba4cc662dac7e8c844.js": "/precache-manifest.a5dc6db8b5729dba4cc662dac7e8c844.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.9ccae6b8.chunk.css.map": "/static/css/main.9ccae6b8.chunk.css.map",
+    "static/js/2.7e1d6626.chunk.js.LICENSE.txt": "/static/js/2.7e1d6626.chunk.js.LICENSE.txt",
+    "static/media/AcrossDisciplines.jpg": "/static/media/AcrossDisciplines.e49ba90f.jpg",
+    "static/media/BigIdea.jpg": "/static/media/BigIdea.b0c76a50.jpg",
+    "static/media/Contribution.jpg": "/static/media/Contribution.c70a577c.jpg",
+    "static/media/Convergence.jpg": "/static/media/Convergence.c5e1ecfb.jpg",
+    "static/media/D&C_Defs.pdf": "/static/media/D&C_Defs.c1d312de.pdf",
+    "static/media/Details.jpg": "/static/media/Details.221c5e7d.jpg",
+    "static/media/Ethics.jpg": "/static/media/Ethics.d62d98f0.jpg",
+    "static/media/Imperatives_Defs.pdf": "/static/media/Imperatives_Defs.380365b8.pdf",
+    "static/media/LanguageOfDiscipline.jpg": "/static/media/LanguageOfDiscipline.bb7e919c.jpg",
+    "static/media/MultiplePerspectives.jpg": "/static/media/MultiplePerspectives.650cfc35.jpg",
+    "static/media/Origin.jpg": "/static/media/Origin.94e80933.jpg",
+    "static/media/OverTime.jpg": "/static/media/OverTime.668ab0ce.jpg",
+    "static/media/Paradox.jpg": "/static/media/Paradox.7ffb9f07.jpg",
+    "static/media/Parallell.jpg": "/static/media/Parallell.b6d817bf.jpg",
+    "static/media/Patterns.jpg": "/static/media/Patterns.ba3347a1.jpg",
+    "static/media/Rules.jpg": "/static/media/Rules.e284ab77.jpg",
+    "static/media/Trends.jpg": "/static/media/Trends.5b8d1231.jpg",
+    "static/media/UnansweredQs.jpg": "/static/media/UnansweredQs.6b201933.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.7e1d6626.chunk.js",
+    "static/css/main.9ccae6b8.chunk.css",
+    "static/js/main.ad2ca0fd.chunk.js"
+  ]
+}
