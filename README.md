@@ -7,4 +7,4 @@ This app helps teachers easily create 3 sentences at random (or they can manuall
 
 See my Demo Video on YouTube!
 
-https://www.youtube.com/watch?v=V_Cw5K8Ay-M
+https://www.youtube.com/watch?v=VNNPs1vPOEU
